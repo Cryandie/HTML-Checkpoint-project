@@ -1,0 +1,134 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  background-color: black;
+  background-image: url(/orange-wallpaper-4.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+h1 {
+  font-family: "Roboto Slab", serif;
+  color: white;
+}
+
+h2 {
+  margin-left: 150px;
+}
+
+.login {
+  background-color: rgb(238, 183, 82, 0.35);
+  height: 118px;
+  width: 1024px;
+  margin-top: -55px;
+  margin-left: 360px;
+  margin-right: auto;
+  text-align: center;
+  font-family: "Roboto Slab", serif;
+  font-size: 18px;
+}
+#password {
+  margin-left: 20px;
+}
+
+.aze {
+  margin-top: -49px;
+  margin-left: -650px;
+  font-family: "Roboto Slab", serif;
+  font-size: 18px;
+}
+h2 {
+  color: yellowgreen;
+  font-size: 45px;
+}
+
+.navbar {
+  background-color: rgb(255, 191, 43, 0.35);
+  padding-bottom: 18px;
+}
+
+.sup a {
+  background-color: rgba(255, 136, 0, 0.774);
+  text-decoration: none;
+  color: rgba(255, 255, 255, 0.575);
+  font-weight: bold;
+  border-style: dotted;
+  font-size: 28px;
+  margin-left: 810px;
+  text-align: center;
+}
+
+.button {
+  height: 20px;
+  margin-left: -10px;
+  background-color: rgb(247, 137, 97);
+  color: rgb(177, 253, 36);
+  font-weight: bold;
+}
+.Dropdown {
+  height: 60px;
+  width: 210px;
+  margin-left: 80px;
+  margin-top: 20px;
+  border-style: hidden;
+  background-color: rgba(255, 68, 0, 0.61);
+  color: white;
+  font-family: "Roboto Slab", serif;
+  font-weight: bolder;
+  text-align: center;
+  cursor: pointer;
+  border-style: dotted;
+  border-color: greenyellow;
+  text-align: center;
+  font-size: 18px;
+}
+
+.Dropdown:hover {
+  background-color: rgba(168, 223, 58, 0.5);
+  color: orange;
+  font-weight: bold;
+}
+
+article {
+  color: blanchedalmond;
+  font-size: 45px;
+  font-family: "Roboto Slab", serif;
+  font-weight: bold;
+  padding-left: 25px;
+}
+h3 {
+  color: rgb(248, 248, 248);
+}
+
+aside {
+  text-align: right;
+  padding-right: 25px;
+  color: rgb(56, 239, 252);
+  font-size: 45px;
+  font-family: "Roboto Slab", serif;
+  font-weight: bold;
+}
+/*.sameline {
+ display: inline-block; 
+ } Not working :( I can replace aside by a second article/section
+ in this case but just letting it as it is to know how
+ to use the inline block exactly */
+
+footer {
+  background-color: rgb(238, 183, 82, 0.1);
+  height: auto;
+  width: auto;
+  font-size: 45px;
+  text-align: center;
+}
+.dot {
+  color: chocolate;
+}
+h4 {
+  font-size: 35px;
+  font-family: "Roboto Slab", serif;
+  color: blueviolet;
+}
